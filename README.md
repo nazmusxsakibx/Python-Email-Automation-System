@@ -1,9 +1,5 @@
 # Python-Email-Automation-System
 
-Python Email Automation System
-
-# 🐍 Python Email Automation System
-
 > Automated email delivery using Python — featuring multi-receiver support, file attachments, and daily scheduling.
 
 ---
